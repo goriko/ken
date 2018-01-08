@@ -1,6 +1,11 @@
 <html>
   <head>
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      body{
+        background-color: #9966ff;
+      }
+    </style>
   </head>
   <body>
     <br>
